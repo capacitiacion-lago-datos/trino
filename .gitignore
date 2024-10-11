@@ -1,3 +1,5 @@
 /venv
 notebooks/.env
 notebooks/.env-cd
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/ejemplo_trino-checkpoint.ipynb

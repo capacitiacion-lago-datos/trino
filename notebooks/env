@@ -1,0 +1,5 @@
+host=10.94.10.44
+port=8080
+user=hive
+catalog=minio
+schema = capacitacion

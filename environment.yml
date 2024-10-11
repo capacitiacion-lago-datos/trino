@@ -1,0 +1,14 @@
+name: venv-test
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - ipykernel
+  - numpy
+  - pandas
+  - polars
+  - minio
+  - trino-python-client
+  - s3fs
+  - trino
+  - pyarrow
